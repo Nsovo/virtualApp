@@ -1,0 +1,6 @@
+framework module Pods_VirtualPlayground {
+  umbrella header "Pods-VirtualPlayground-umbrella.h"
+
+  export *
+  module * { export * }
+}
