@@ -1,27 +1,32 @@
 {
-  "_from": "nativescript-ui-sidedrawer@^4.0.0",
+  "_args": [
+    [
+      "nativescript-ui-sidedrawer@4.1.0",
+      "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground"
+    ]
+  ],
+  "_from": "nativescript-ui-sidedrawer@4.1.0",
   "_id": "nativescript-ui-sidedrawer@4.1.0",
   "_inBundle": false,
   "_integrity": "sha512-nb5ePxmlLa7gVFsGNkX+dO+lgJK6tZl62UMI0RySfSpaCHdRKfai9njFdx3A4/jjQJsWt1WflP471AE03sR1WQ==",
   "_location": "/nativescript-ui-sidedrawer",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-ui-sidedrawer@^4.0.0",
+    "raw": "nativescript-ui-sidedrawer@4.1.0",
     "name": "nativescript-ui-sidedrawer",
     "escapedName": "nativescript-ui-sidedrawer",
-    "rawSpec": "^4.0.0",
+    "rawSpec": "4.1.0",
     "saveSpec": null,
-    "fetchSpec": "^4.0.0"
+    "fetchSpec": "4.1.0"
   },
   "_requiredBy": [
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-ui-sidedrawer/-/nativescript-ui-sidedrawer-4.1.0.tgz",
-  "_shasum": "2ef8ce583d3fa99202bb4f34c0b602a4abddab26",
-  "_spec": "nativescript-ui-sidedrawer@^4.0.0",
-  "_where": "/Users/Nsovo/Downloads/NSPlayground",
+  "_spec": "4.1.0",
+  "_where": "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground",
   "author": {
     "name": "NativeScript Team",
     "email": "nativescriptplugins@progress.com"
@@ -30,11 +35,9 @@
   "bugs": {
     "url": "https://github.com/telerik/nativescript-ui-feedback/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "nativescript-ui-core": "^1.0.0"
   },
-  "deprecated": false,
   "description": "Add additional space to your app. Use it for navigation or custom content. Slides in from all four sides of the screen.",
   "devDependencies": {
     "@angular/common": "^5.0.0",

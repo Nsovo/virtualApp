@@ -1,4 +1,35 @@
-<StackLayout>
-  <Label class="h1 title"
-    text="sales Is working"></Label>
-</StackLayout>
+
+<FlexboxLayout class="page">
+  <StackLayout class="form">
+    <Label class="h1 title"
+           text="New Order"></Label>
+
+    <StackLayout class="input-field">
+      <TextField class="input" hint="Product Name"  autocorrect="true"  [(ngModel)]="order.product_name" ></TextField>
+      <StackLayout class="hr-light"></StackLayout>
+    </StackLayout>
+
+    <StackLayout class="input-field">
+      <TextField  class="input" hint="Size"  [(ngModel)]="order.size" ></TextField>
+      <StackLayout class="hr-light"></StackLayout>
+    </StackLayout>
+
+    <StackLayout class="input-field">
+      <TextField  class="input" hint="Quantity"  [(ngModel)]="order.quantity" ></TextField>
+      <StackLayout class="hr-light"></StackLayout>
+    </StackLayout>
+
+    <StackLayout class="input-field">
+      <TextField  class="input" hint="Customer Name"  [(ngModel)]="order.customer_name" ></TextField>
+      <StackLayout class="hr-light"></StackLayout>
+    </StackLayout>
+
+    <StackLayout class="input-field">
+      <TextField  class="input" hint="Customer Location"  [(ngModel)]="order.customer_location" ></TextField>
+      <StackLayout class="hr-light"></StackLayout>
+    </StackLayout>
+
+    <Button [text]="'Make order'" (tap)="submit()" class="btn btn-primary m-t-20"></Button>
+  </StackLayout>
+
+</FlexboxLayout>

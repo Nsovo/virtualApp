@@ -1,27 +1,32 @@
 {
-  "_from": "nativescript-geolocation@^4.2.3",
+  "_args": [
+    [
+      "nativescript-geolocation@4.2.6",
+      "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground"
+    ]
+  ],
+  "_from": "nativescript-geolocation@4.2.6",
   "_id": "nativescript-geolocation@4.2.6",
   "_inBundle": false,
   "_integrity": "sha1-TBp8i9kgXXzyne4st6vUUhAgOUI=",
   "_location": "/nativescript-geolocation",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-geolocation@^4.2.3",
+    "raw": "nativescript-geolocation@4.2.6",
     "name": "nativescript-geolocation",
     "escapedName": "nativescript-geolocation",
-    "rawSpec": "^4.2.3",
+    "rawSpec": "4.2.6",
     "saveSpec": null,
-    "fetchSpec": "^4.2.3"
+    "fetchSpec": "4.2.6"
   },
   "_requiredBy": [
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-geolocation/-/nativescript-geolocation-4.2.6.tgz",
-  "_shasum": "4c1a7c8bd9205d7cf29dee2cb7abd45210203942",
-  "_spec": "nativescript-geolocation@^4.2.3",
-  "_where": "/Users/Nsovo/Downloads/NSPlayground",
+  "_spec": "4.2.6",
+  "_where": "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground",
   "author": {
     "name": "NativeScript Team"
   },
@@ -29,11 +34,9 @@
   "bugs": {
     "url": "https://github.com/NativeScript/nativescript-geolocation/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "nativescript-permissions": "~1.2.3"
   },
-  "deprecated": false,
   "description": "Provides API for getting and monitoring location for NativeScript app.",
   "devDependencies": {
     "prompt": "^1.0.0",

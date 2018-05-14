@@ -1,34 +1,38 @@
 {
-  "_from": "nativescript-fresco@^3.0.6",
+  "_args": [
+    [
+      "nativescript-fresco@3.0.7",
+      "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground"
+    ]
+  ],
+  "_from": "nativescript-fresco@3.0.7",
   "_id": "nativescript-fresco@3.0.7",
   "_inBundle": false,
   "_integrity": "sha1-Zv42x7fHSd2qnnj5Xgk9kVo+pfY=",
   "_location": "/nativescript-fresco",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-fresco@^3.0.6",
+    "raw": "nativescript-fresco@3.0.7",
     "name": "nativescript-fresco",
     "escapedName": "nativescript-fresco",
-    "rawSpec": "^3.0.6",
+    "rawSpec": "3.0.7",
     "saveSpec": null,
-    "fetchSpec": "^3.0.6"
+    "fetchSpec": "3.0.7"
   },
   "_requiredBy": [
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-fresco/-/nativescript-fresco-3.0.7.tgz",
-  "_shasum": "66fe36c7b7c749ddaa9e78f95e093d915a3ea5f6",
-  "_spec": "nativescript-fresco@^3.0.6",
-  "_where": "/Users/Nsovo/Downloads/NSPlayground",
+  "_spec": "3.0.7",
+  "_where": "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground",
   "author": {
     "name": "NativeScript Team"
   },
   "bugs": {
     "url": "https://github.com/NativeScript/nativescript-fresco/issues"
   },
-  "bundleDependencies": false,
   "contributors": [
     {
       "name": "Deyan Ginev",
@@ -39,7 +43,6 @@
       "email": "Vladimir.Amiorkov@telerik.com"
     }
   ],
-  "deprecated": false,
   "description": "This is a NativeScript plugin wrapping the popular Fresco library for managing images on Android.",
   "devDependencies": {
     "@angular/common": "4.2.5",

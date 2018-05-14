@@ -1,35 +1,38 @@
 {
-  "_from": "nativescript-background-http@^3.2.2",
+  "_args": [
+    [
+      "nativescript-background-http@3.2.5",
+      "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground"
+    ]
+  ],
+  "_from": "nativescript-background-http@3.2.5",
   "_id": "nativescript-background-http@3.2.5",
   "_inBundle": false,
   "_integrity": "sha512-Ll0raoQ9NsRllB4+wCYo2qV3nlmRvKPVKsSWFHoxEt80CSR9uLO4maQ9nXcrG2Ty05FDhKECU1Aeztg1BEijGQ==",
   "_location": "/nativescript-background-http",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-background-http@^3.2.2",
+    "raw": "nativescript-background-http@3.2.5",
     "name": "nativescript-background-http",
     "escapedName": "nativescript-background-http",
-    "rawSpec": "^3.2.2",
+    "rawSpec": "3.2.5",
     "saveSpec": null,
-    "fetchSpec": "^3.2.2"
+    "fetchSpec": "3.2.5"
   },
   "_requiredBy": [
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-background-http/-/nativescript-background-http-3.2.5.tgz",
-  "_shasum": "55d1cc7d5db6ac571c8781c244f3b4d31e4e8c52",
-  "_spec": "nativescript-background-http@^3.2.2",
-  "_where": "/Users/Nsovo/Downloads/NSPlayground",
+  "_spec": "3.2.5",
+  "_where": "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground",
   "author": {
     "name": "NativeScript Team"
   },
   "bugs": {
     "url": "https://github.com/NativeScript/nativescript-background-http/issues"
   },
-  "bundleDependencies": false,
-  "deprecated": false,
   "description": "The iOS API is implemented in JavaScript.",
   "devDependencies": {
     "tns-core-modules": "^3.4.0",

@@ -28,10 +28,12 @@
     "nativescript-ui-sidedrawer": true,
     "reflect-metadata": true,
     "rxjs": true,
+    "tns-core-modules": true,
     "zone.js": true,
     "tslib": true,
     "nativescript-sqlite": true,
     "nativescript-permissions": true,
     "nativescript-ui-core": true,
-    "symbol-observable": true
+    "symbol-observable": true,
+    "tns-core-modules-widgets": true
 }

@@ -1,27 +1,32 @@
 {
-  "_from": "nativescript-ui-listview@^3.5.4",
+  "_args": [
+    [
+      "nativescript-ui-listview@3.5.5",
+      "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground"
+    ]
+  ],
+  "_from": "nativescript-ui-listview@3.5.5",
   "_id": "nativescript-ui-listview@3.5.5",
   "_inBundle": false,
   "_integrity": "sha512-huqwESQQ5tY48Oo+TQveIVEDgKpZkVoeeWD90HYhRMlSojTWkDw8ebg0AOtFTL5g506SOooQZmqfjaUs/00aRw==",
   "_location": "/nativescript-ui-listview",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-ui-listview@^3.5.4",
+    "raw": "nativescript-ui-listview@3.5.5",
     "name": "nativescript-ui-listview",
     "escapedName": "nativescript-ui-listview",
-    "rawSpec": "^3.5.4",
+    "rawSpec": "3.5.5",
     "saveSpec": null,
-    "fetchSpec": "^3.5.4"
+    "fetchSpec": "3.5.5"
   },
   "_requiredBy": [
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-ui-listview/-/nativescript-ui-listview-3.5.5.tgz",
-  "_shasum": "1be230302749fa7d07dd9ae6b83caf25737c4499",
-  "_spec": "nativescript-ui-listview@^3.5.4",
-  "_where": "/Users/Nsovo/Downloads/NSPlayground",
+  "_spec": "3.5.5",
+  "_where": "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground",
   "author": {
     "name": "NativeScript Team",
     "email": "nativescriptplugins@progress.com"
@@ -30,11 +35,9 @@
   "bugs": {
     "url": "https://github.com/telerik/nativescript-ui-feedback/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "nativescript-ui-core": "^1.0.0"
   },
-  "deprecated": false,
   "description": "A powerful data list control implementing a bunch of features native to the mobile world as item animations, pull-to-refresh, item layouts, load-on-demand, swipe-to-execute, etc.",
   "devDependencies": {
     "@angular/common": "^5.0.0",

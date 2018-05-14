@@ -68,7 +68,23 @@ export class LoginComponent {
     }
 
     forgotPassword() {
-        this.alert("Contact the administrator.");
+        prompt({
+            title: "Forgot Password",
+            message: "Enter the email address you used to register for APP NAME to reset your password.",
+            inputType: "email",
+            defaultText: "",
+            okButtonText: "Ok",
+            cancelButtonText: "Cancel"
+        }).then((data) => {
+            if (data.result) {
+                this.userService.resetPassword(data.text.trim())
+                    .then(() => {
+                        this.alert("Your password was successfully reset. Please check your email for instructions on choosing a new password.");
+                    }).catch(() => {
+                        this.alert("Unfortunately, an error occurred resetting your password.");
+                    });
+            }
+        });
     }
 
     focusPassword() {

@@ -1,27 +1,32 @@
 {
-  "_from": "nativescript-iqkeyboardmanager@^1.3.0",
+  "_args": [
+    [
+      "nativescript-iqkeyboardmanager@1.3.0",
+      "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground"
+    ]
+  ],
+  "_from": "nativescript-iqkeyboardmanager@1.3.0",
   "_id": "nativescript-iqkeyboardmanager@1.3.0",
   "_inBundle": false,
   "_integrity": "sha1-pRI14noXDVhb3RoQDQJPj87eE6I=",
   "_location": "/nativescript-iqkeyboardmanager",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-iqkeyboardmanager@^1.3.0",
+    "raw": "nativescript-iqkeyboardmanager@1.3.0",
     "name": "nativescript-iqkeyboardmanager",
     "escapedName": "nativescript-iqkeyboardmanager",
-    "rawSpec": "^1.3.0",
+    "rawSpec": "1.3.0",
     "saveSpec": null,
-    "fetchSpec": "^1.3.0"
+    "fetchSpec": "1.3.0"
   },
   "_requiredBy": [
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-iqkeyboardmanager/-/nativescript-iqkeyboardmanager-1.3.0.tgz",
-  "_shasum": "a51235e27a170d585bdd1a100d024f8fcede13a2",
-  "_spec": "nativescript-iqkeyboardmanager@^1.3.0",
-  "_where": "/Users/Nsovo/Downloads/NSPlayground",
+  "_spec": "1.3.0",
+  "_where": "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground",
   "author": {
     "name": "TJ VanToll",
     "email": "tj.vantoll@gmail.com",
@@ -30,14 +35,12 @@
   "bugs": {
     "url": "https://github.com/tjvantoll/nativescript-IQKeyboardManager/issues"
   },
-  "bundleDependencies": false,
   "contributors": [
     {
       "name": "Eddy Verbruggen",
       "email": "eddyverbruggen@gmail.com"
     }
   ],
-  "deprecated": false,
   "description": "NativeScript wrapper of the popular IQKeyboardManager iOS library",
   "devDependencies": {
     "nativescript-dev-typescript": "^0.6.0",

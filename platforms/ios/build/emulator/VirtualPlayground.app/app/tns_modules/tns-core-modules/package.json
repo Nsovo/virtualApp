@@ -1,27 +1,28 @@
 {
-  "_from": "tns-core-modules@~4.0.0",
+  "_from": "tns-core-modules",
   "_id": "tns-core-modules@4.0.0",
   "_inBundle": false,
   "_integrity": "sha1-lBcSJOrIKqW1hzp4qjCa7NPmNGo=",
   "_location": "/tns-core-modules",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "tag",
     "registry": true,
-    "raw": "tns-core-modules@~4.0.0",
+    "raw": "tns-core-modules",
     "name": "tns-core-modules",
     "escapedName": "tns-core-modules",
-    "rawSpec": "~4.0.0",
+    "rawSpec": "",
     "saveSpec": null,
-    "fetchSpec": "~4.0.0"
+    "fetchSpec": "latest"
   },
   "_requiredBy": [
+    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-4.0.0.tgz",
   "_shasum": "94171224eac82aa5b5873a78aa309aecd3e6346a",
-  "_spec": "tns-core-modules@~4.0.0",
-  "_where": "/Users/Nsovo/Downloads/NSPlayground",
+  "_spec": "tns-core-modules",
+  "_where": "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground",
   "bundleDependencies": false,
   "dependencies": {
     "tns-core-modules-widgets": "4.0.0"

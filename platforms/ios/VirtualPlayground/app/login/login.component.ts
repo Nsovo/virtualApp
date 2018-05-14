@@ -42,10 +42,17 @@ export class LoginComponent {
         }
     }
 
+    redirect(){
+        if (this.user.email == 'nsovom@khabane.co.za')
+            this.router.navigate(["/sales"]);
+        else
+            this.router.navigate(["/home"]);
+    }
+
     login() {
         this.userService.login(this.user)
             .then(() => {
-                this.router.navigate(["/home"]);
+                this.redirect()
             })
             .catch(() => {
                 this.alert("Unfortunately we could not find your account.");

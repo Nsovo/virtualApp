@@ -1,27 +1,32 @@
 {
-  "_from": "nativescript-ui-calendar@^3.5.2",
+  "_args": [
+    [
+      "nativescript-ui-calendar@3.6.0",
+      "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground"
+    ]
+  ],
+  "_from": "nativescript-ui-calendar@3.6.0",
   "_id": "nativescript-ui-calendar@3.6.0",
   "_inBundle": false,
   "_integrity": "sha512-LvJiyUW9RPs4Gq9CnAlBhQf3m0r0HRy7oV/vuAXqjELNfRhe+4BeTsjjnKqidi7jTgQWfzGtr9LRnrbA3qzBjw==",
   "_location": "/nativescript-ui-calendar",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-ui-calendar@^3.5.2",
+    "raw": "nativescript-ui-calendar@3.6.0",
     "name": "nativescript-ui-calendar",
     "escapedName": "nativescript-ui-calendar",
-    "rawSpec": "^3.5.2",
+    "rawSpec": "3.6.0",
     "saveSpec": null,
-    "fetchSpec": "^3.5.2"
+    "fetchSpec": "3.6.0"
   },
   "_requiredBy": [
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-ui-calendar/-/nativescript-ui-calendar-3.6.0.tgz",
-  "_shasum": "6020e4e743e6f14d11ce61c40d3318d6f6a19d7e",
-  "_spec": "nativescript-ui-calendar@^3.5.2",
-  "_where": "/Users/Nsovo/Downloads/NSPlayground",
+  "_spec": "3.6.0",
+  "_where": "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground",
   "author": {
     "name": "NativeScript Team",
     "email": "nativescriptplugins@progress.com"
@@ -30,11 +35,9 @@
   "bugs": {
     "url": "https://github.com/telerik/nativescript-ui-feedback/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "nativescript-ui-core": "^1.0.0"
   },
-  "deprecated": false,
   "description": "Month, year, week and day views. Single, multiple and range date Selection. Special and disabled dates.",
   "devDependencies": {
     "@angular/common": "^5.0.0",

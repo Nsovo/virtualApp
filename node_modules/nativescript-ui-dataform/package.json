@@ -1,27 +1,32 @@
 {
-  "_from": "nativescript-ui-dataform@^3.5.2",
+  "_args": [
+    [
+      "nativescript-ui-dataform@3.6.0",
+      "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground"
+    ]
+  ],
+  "_from": "nativescript-ui-dataform@3.6.0",
   "_id": "nativescript-ui-dataform@3.6.0",
   "_inBundle": false,
   "_integrity": "sha512-SoE98XEc+IbOLlDf/eAfaczN9r6uomFrs80x2gd93AE0N44Ke/m4gJljTiF3kPJkBlW4JSKv74LgsAx0Yh70UA==",
   "_location": "/nativescript-ui-dataform",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-ui-dataform@^3.5.2",
+    "raw": "nativescript-ui-dataform@3.6.0",
     "name": "nativescript-ui-dataform",
     "escapedName": "nativescript-ui-dataform",
-    "rawSpec": "^3.5.2",
+    "rawSpec": "3.6.0",
     "saveSpec": null,
-    "fetchSpec": "^3.5.2"
+    "fetchSpec": "3.6.0"
   },
   "_requiredBy": [
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-ui-dataform/-/nativescript-ui-dataform-3.6.0.tgz",
-  "_shasum": "4d01e6d7d4014dc176aa35a547034585e3845510",
-  "_spec": "nativescript-ui-dataform@^3.5.2",
-  "_where": "/Users/Nsovo/Downloads/NSPlayground",
+  "_spec": "3.6.0",
+  "_where": "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground",
   "author": {
     "name": "NativeScript Team",
     "email": "nativescriptplugins@progress.com"
@@ -30,12 +35,10 @@
   "bugs": {
     "url": "https://github.com/telerik/nativescript-ui-feedback/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "nativescript-ui-autocomplete": "^3.5.0",
     "nativescript-ui-core": "^1.0.0"
   },
-  "deprecated": false,
   "description": "Display and edit data object's properties with standard or custom editors in a data fill-in form.",
   "devDependencies": {
     "@angular/common": "^5.0.0",

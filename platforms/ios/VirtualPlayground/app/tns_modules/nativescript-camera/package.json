@@ -1,38 +1,41 @@
 {
-  "_from": "nativescript-camera@^4.0.2",
+  "_args": [
+    [
+      "nativescript-camera@4.0.2",
+      "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground"
+    ]
+  ],
+  "_from": "nativescript-camera@4.0.2",
   "_id": "nativescript-camera@4.0.2",
   "_inBundle": false,
   "_integrity": "sha512-ZRRAQHvP2rzQTMXtBg1O3utTUaKvwcC0zcgU64zYvcHP4dkZ8f5x/KulDPrZ5ITsMDH4BJTak3uYU7jnvKk3vA==",
   "_location": "/nativescript-camera",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-camera@^4.0.2",
+    "raw": "nativescript-camera@4.0.2",
     "name": "nativescript-camera",
     "escapedName": "nativescript-camera",
-    "rawSpec": "^4.0.2",
+    "rawSpec": "4.0.2",
     "saveSpec": null,
-    "fetchSpec": "^4.0.2"
+    "fetchSpec": "4.0.2"
   },
   "_requiredBy": [
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-camera/-/nativescript-camera-4.0.2.tgz",
-  "_shasum": "3d8b6aad02257476a377d5925b7d63d396ef9040",
-  "_spec": "nativescript-camera@^4.0.2",
-  "_where": "/Users/Nsovo/Downloads/NSPlayground",
+  "_spec": "4.0.2",
+  "_where": "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground",
   "author": {
     "name": "NativeScript team"
   },
   "bugs": {
     "url": "https://github.com/NativeScript/nativescript-camera/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "nativescript-permissions": "^1.2.3"
   },
-  "deprecated": false,
   "description": "Provides API for using device camera",
   "devDependencies": {
     "prompt": "^1.0.0",

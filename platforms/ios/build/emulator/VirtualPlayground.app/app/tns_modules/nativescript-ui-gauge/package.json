@@ -1,27 +1,32 @@
 {
-  "_from": "nativescript-ui-gauge@^3.5.0",
+  "_args": [
+    [
+      "nativescript-ui-gauge@3.6.0",
+      "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground"
+    ]
+  ],
+  "_from": "nativescript-ui-gauge@3.6.0",
   "_id": "nativescript-ui-gauge@3.6.0",
   "_inBundle": false,
   "_integrity": "sha512-uo0XgoQHHx04gDEeiiLsipJ2JQy6CEnAizF+KMV2d3hjQSlfIibuzNIunpCNCneGWvFog/ADoSaQHYo5ZA98bg==",
   "_location": "/nativescript-ui-gauge",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-ui-gauge@^3.5.0",
+    "raw": "nativescript-ui-gauge@3.6.0",
     "name": "nativescript-ui-gauge",
     "escapedName": "nativescript-ui-gauge",
-    "rawSpec": "^3.5.0",
+    "rawSpec": "3.6.0",
     "saveSpec": null,
-    "fetchSpec": "^3.5.0"
+    "fetchSpec": "3.6.0"
   },
   "_requiredBy": [
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-ui-gauge/-/nativescript-ui-gauge-3.6.0.tgz",
-  "_shasum": "06b8ecc5bb11063ae7467cab209728b912c14eb2",
-  "_spec": "nativescript-ui-gauge@^3.5.0",
-  "_where": "/Users/Nsovo/Downloads/NSPlayground",
+  "_spec": "3.6.0",
+  "_where": "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground",
   "author": {
     "name": "NativeScript Team",
     "email": "nativescriptplugins@progress.com"
@@ -30,11 +35,9 @@
   "bugs": {
     "url": "https://github.com/telerik/nativescript-ui-feedback/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "nativescript-ui-core": "^1.0.0"
   },
-  "deprecated": false,
   "description": "Show a key data point in an intuitive gauge format, with contextual bands for categorization.",
   "devDependencies": {
     "@angular/common": "^5.0.0",

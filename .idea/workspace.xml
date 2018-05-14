@@ -2,8 +2,262 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93f25904-175b-4d55-adf2-79be2fde75ed" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/App_Resources/Android/app.gradle" afterPath="$PROJECT_DIR$/app/App_Resources/Android/app.gradle" />
+      <change beforePath="$PROJECT_DIR$/app/login/login.component.js" afterPath="$PROJECT_DIR$/app/login/login.component.js" />
+      <change beforePath="$PROJECT_DIR$/app/login/login.component.ts" afterPath="$PROJECT_DIR$/app/login/login.component.ts" />
+      <change beforePath="$PROJECT_DIR$/app/sales/sales.component.css" afterPath="$PROJECT_DIR$/app/sales/sales.component.css" />
+      <change beforePath="$PROJECT_DIR$/app/sales/sales.component.html" afterPath="$PROJECT_DIR$/app/sales/sales.component.html" />
+      <change beforePath="$PROJECT_DIR$/app/sales/sales.component.js" afterPath="$PROJECT_DIR$/app/sales/sales.component.js" />
+      <change beforePath="$PROJECT_DIR$/app/sales/sales.component.ts" afterPath="$PROJECT_DIR$/app/sales/sales.component.ts" />
+      <change beforePath="$PROJECT_DIR$/app/shared/backend.service.js" afterPath="$PROJECT_DIR$/app/shared/backend.service.js" />
+      <change beforePath="$PROJECT_DIR$/app/shared/user.service.js" afterPath="$PROJECT_DIR$/app/shared/user.service.js" />
+      <change beforePath="$PROJECT_DIR$/hooks/before-livesync/nativescript-angular-sync.js" afterPath="$PROJECT_DIR$/hooks/before-livesync/nativescript-angular-sync.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/package.json" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/common/package.json" afterPath="$PROJECT_DIR$/node_modules/@angular/common/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/compiler/package.json" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/package.json" afterPath="$PROJECT_DIR$/node_modules/@angular/core/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/package.json" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/http/package.json" afterPath="$PROJECT_DIR$/node_modules/@angular/http/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/platform-browser-dynamic/package.json" afterPath="$PROJECT_DIR$/node_modules/@angular/platform-browser-dynamic/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/platform-browser/package.json" afterPath="$PROJECT_DIR$/node_modules/@angular/platform-browser/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/router/package.json" afterPath="$PROJECT_DIR$/node_modules/@angular/router/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/align-text/package.json" afterPath="$PROJECT_DIR$/node_modules/align-text/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/amdefine/package.json" afterPath="$PROJECT_DIR$/node_modules/amdefine/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/async/package.json" afterPath="$PROJECT_DIR$/node_modules/async/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-code-frame/package.json" afterPath="$PROJECT_DIR$/node_modules/babel-code-frame/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-messages/package.json" afterPath="$PROJECT_DIR$/node_modules/babel-messages/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-runtime/package.json" afterPath="$PROJECT_DIR$/node_modules/babel-runtime/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-traverse/package.json" afterPath="$PROJECT_DIR$/node_modules/babel-traverse/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-types/package.json" afterPath="$PROJECT_DIR$/node_modules/babel-types/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babylon/package.json" afterPath="$PROJECT_DIR$/node_modules/babylon/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/package.json" afterPath="$PROJECT_DIR$/node_modules/balanced-match/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/brace-expansion/package.json" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/camelcase/package.json" afterPath="$PROJECT_DIR$/node_modules/camelcase/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/center-align/package.json" afterPath="$PROJECT_DIR$/node_modules/center-align/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/package.json" afterPath="$PROJECT_DIR$/node_modules/chalk/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/package.json" afterPath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/package.json" afterPath="$PROJECT_DIR$/node_modules/cliui/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/package.json" afterPath="$PROJECT_DIR$/node_modules/commander/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/concat-map/package.json" afterPath="$PROJECT_DIR$/node_modules/concat-map/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-js/package.json" afterPath="$PROJECT_DIR$/node_modules/core-js/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/package.json" afterPath="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/decamelize/package.json" afterPath="$PROJECT_DIR$/node_modules/decamelize/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esutils/package.json" afterPath="$PROJECT_DIR$/node_modules/esutils/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs.realpath/package.json" afterPath="$PROJECT_DIR$/node_modules/fs.realpath/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob/package.json" afterPath="$PROJECT_DIR$/node_modules/glob/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/globals/package.json" afterPath="$PROJECT_DIR$/node_modules/globals/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/handlebars/package.json" afterPath="$PROJECT_DIR$/node_modules/handlebars/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-ansi/package.json" afterPath="$PROJECT_DIR$/node_modules/has-ansi/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/inflight/package.json" afterPath="$PROJECT_DIR$/node_modules/inflight/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/node_modules/inherits/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/invariant/package.json" afterPath="$PROJECT_DIR$/node_modules/invariant/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-buffer/package.json" afterPath="$PROJECT_DIR$/node_modules/is-buffer/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-tokens/package.json" afterPath="$PROJECT_DIR$/node_modules/js-tokens/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kind-of/package.json" afterPath="$PROJECT_DIR$/node_modules/kind-of/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kinvey-nativescript-sdk/node_modules/nativescript-sqlite/package.json" afterPath="$PROJECT_DIR$/node_modules/kinvey-nativescript-sdk/node_modules/nativescript-sqlite/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kinvey-nativescript-sdk/package.json" afterPath="$PROJECT_DIR$/node_modules/kinvey-nativescript-sdk/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lazy-cache/package.json" afterPath="$PROJECT_DIR$/node_modules/lazy-cache/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lazy/package.json" afterPath="$PROJECT_DIR$/node_modules/lazy/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash/package.json" afterPath="$PROJECT_DIR$/node_modules/lodash/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/longest/package.json" afterPath="$PROJECT_DIR$/node_modules/longest/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loose-envify/package.json" afterPath="$PROJECT_DIR$/node_modules/loose-envify/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/minimatch/package.json" afterPath="$PROJECT_DIR$/node_modules/minimatch/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/minimist/package.json" afterPath="$PROJECT_DIR$/node_modules/minimist/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/package.json" afterPath="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/package.json" afterPath="$PROJECT_DIR$/node_modules/ms/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-accelerometer/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-accelerometer/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-angular/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-angular/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-background-http/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-background-http/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-camera/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-camera/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-dev-typescript/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-dev-typescript/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-drop-down/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-drop-down/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-fresco/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-fresco/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-geolocation/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-geolocation/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-hook/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-hook/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-intl/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-intl/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-iqkeyboardmanager/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-iqkeyboardmanager/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-permissions/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-permissions/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-social-share/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-social-share/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-sqlite/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-sqlite/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-theme-core/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-theme-core/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-ui-autocomplete/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-ui-autocomplete/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-ui-calendar/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-ui-calendar/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-ui-chart/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-ui-chart/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-ui-core/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-ui-core/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-ui-dataform/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-ui-dataform/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-ui-gauge/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-ui-gauge/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-ui-listview/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-ui-listview/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nativescript-ui-sidedrawer/package.json" afterPath="$PROJECT_DIR$/node_modules/nativescript-ui-sidedrawer/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/once/package.json" afterPath="$PROJECT_DIR$/node_modules/once/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/optimist/package.json" afterPath="$PROJECT_DIR$/node_modules/optimist/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/reflect-metadata/package.json" afterPath="$PROJECT_DIR$/node_modules/reflect-metadata/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/regenerator-runtime/package.json" afterPath="$PROJECT_DIR$/node_modules/regenerator-runtime/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/repeat-string/package.json" afterPath="$PROJECT_DIR$/node_modules/repeat-string/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/right-align/package.json" afterPath="$PROJECT_DIR$/node_modules/right-align/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rimraf/node_modules/glob/package.json" afterPath="$PROJECT_DIR$/node_modules/rimraf/node_modules/glob/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rimraf/package.json" afterPath="$PROJECT_DIR$/node_modules/rimraf/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rxjs/package.json" afterPath="$PROJECT_DIR$/node_modules/rxjs/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/package.json" afterPath="$PROJECT_DIR$/node_modules/source-map/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-ansi/package.json" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/package.json" afterPath="$PROJECT_DIR$/node_modules/supports-color/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/symbol-observable/package.json" afterPath="$PROJECT_DIR$/node_modules/symbol-observable/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tns-core-modules-widgets/package.json" afterPath="$PROJECT_DIR$/node_modules/tns-core-modules-widgets/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tns-core-modules/package.json" afterPath="$PROJECT_DIR$/node_modules/tns-core-modules/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tns-ng/package.json" afterPath="$PROJECT_DIR$/node_modules/tns-ng/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/to-fast-properties/package.json" afterPath="$PROJECT_DIR$/node_modules/to-fast-properties/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/package.json" afterPath="$PROJECT_DIR$/node_modules/tslib/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/package.json" afterPath="$PROJECT_DIR$/node_modules/typescript/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/package.json" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js/package.json" afterPath="$PROJECT_DIR$/node_modules/uglify-js/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/package.json" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/window-size/package.json" afterPath="$PROJECT_DIR$/node_modules/window-size/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wordwrap/package.json" afterPath="$PROJECT_DIR$/node_modules/wordwrap/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wrappy/package.json" afterPath="$PROJECT_DIR$/node_modules/wrappy/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs/package.json" afterPath="$PROJECT_DIR$/node_modules/yargs/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/zone.js/package.json" afterPath="$PROJECT_DIR$/node_modules/zone.js/package.json" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/.nsprepareinfo" afterPath="$PROJECT_DIR$/platforms/ios/.nsprepareinfo" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground.xcodeproj/project.pbxproj" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/login/login.component.js" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/login/login.component.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/login/login.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/login/login.component.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/sales/sales.component.css" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/sales/sales.component.css" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/sales/sales.component.html" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/sales/sales.component.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/sales/sales.component.js" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/sales/sales.component.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/sales/sales.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/sales/sales.component.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/shared/backend.service.js" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/shared/backend.service.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/shared/user.service.js" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/shared/user.service.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/animations/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/animations/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/common/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/common/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/compiler/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/compiler/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/core/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/core/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/forms/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/forms/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/http/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/http/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/platform-browser-dynamic/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/platform-browser-dynamic/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/platform-browser/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/platform-browser/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/router/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/@angular/router/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/kinvey-nativescript-sdk/node_modules/nativescript-sqlite/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/kinvey-nativescript-sdk/node_modules/nativescript-sqlite/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/kinvey-nativescript-sdk/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/kinvey-nativescript-sdk/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-accelerometer/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-accelerometer/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-angular/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-angular/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-background-http/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-background-http/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-camera/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-camera/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-fresco/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-fresco/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-geolocation/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-geolocation/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-intl/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-intl/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-iqkeyboardmanager/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-iqkeyboardmanager/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-permissions/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-permissions/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-social-share/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-social-share/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-sqlite/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-sqlite/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-sqlite/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-sqlite/changelog" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-sqlite/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-sqlite/sqlite.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-theme-core/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-theme-core/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-autocomplete/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-autocomplete/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-calendar/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-calendar/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-chart/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-chart/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-core/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-core/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-dataform/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-dataform/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-gauge/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-gauge/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-listview/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-listview/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-sidedrawer/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/nativescript-ui-sidedrawer/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/reflect-metadata/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/reflect-metadata/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/rxjs/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/rxjs/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/symbol-observable/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/symbol-observable/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/tns-core-modules-widgets/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/tns-core-modules-widgets/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/tns-core-modules/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/tns-core-modules/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/tslib/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/tslib/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/zone.js/package.json" afterPath="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/zone.js/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/.nsbuildinfo" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/.nsbuildinfo" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/IQKeyboardManager.framework/IQKeyboardManager" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/IQKeyboardManager.framework/IQKeyboardManager" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Pods_VirtualPlayground.framework/Pods_VirtualPlayground" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Pods_VirtualPlayground.framework/Pods_VirtualPlayground" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/SAMKeychain.framework/SAMKeychain" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/SAMKeychain.framework/SAMKeychain" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app.dSYM/Contents/Resources/DWARF/VirtualPlayground" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app.dSYM/Contents/Resources/DWARF/VirtualPlayground" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/Assets.car" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/Assets.car" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/Frameworks/SAMKeychain.framework/SAMKeychain" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/Frameworks/SAMKeychain.framework/SAMKeychain" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/VirtualPlayground" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/VirtualPlayground" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/_CodeSignature/CodeResources" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/_CodeSignature/CodeResources" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/app-routing.module.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/app-routing.module.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/app-routing.module.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/app-routing.module.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/login/login.component.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/login/login.component.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/login/login.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/login/login.component.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/sales/sales.component.html" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/sales/sales.component.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/sales/sales.component.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/sales/sales.component.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/sales/sales.component.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/sales/sales.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/sales/sales.component.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/shared/backend.service.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/shared/backend.service.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/shared/backend.service.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/shared/backend.service.ts" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/animations/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/animations/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/common/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/common/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/compiler/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/compiler/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/core/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/core/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/forms/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/forms/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/http/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/http/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/platform-browser-dynamic/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/platform-browser-dynamic/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/platform-browser/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/platform-browser/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/router/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/@angular/router/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/kinvey-nativescript-sdk/node_modules/nativescript-sqlite/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/kinvey-nativescript-sdk/node_modules/nativescript-sqlite/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/kinvey-nativescript-sdk/node_modules/rxjs/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/kinvey-nativescript-sdk/node_modules/rxjs/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/kinvey-nativescript-sdk/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/kinvey-nativescript-sdk/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-accelerometer/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-accelerometer/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-angular/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-angular/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-background-http/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-background-http/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-camera/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-camera/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-fresco/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-fresco/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-geolocation/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-geolocation/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-intl/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-intl/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-iqkeyboardmanager/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-iqkeyboardmanager/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-permissions/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-permissions/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-social-share/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-social-share/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-sqlite/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-sqlite/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-sqlite/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-sqlite/changelog" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-sqlite/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-sqlite/sqlite.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-theme-core/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-theme-core/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-autocomplete/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-autocomplete/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-calendar/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-calendar/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-chart/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-chart/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-core/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-core/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-dataform/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-dataform/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-gauge/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-gauge/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-listview/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-listview/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-sidedrawer/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/nativescript-ui-sidedrawer/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/reflect-metadata/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/reflect-metadata/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/rxjs/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/rxjs/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/symbol-observable/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/symbol-observable/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/tns-core-modules-widgets/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/tns-core-modules-widgets/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/tns-core-modules/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/tns-core-modules/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/tslib/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/tslib/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/zone.js/package.json" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/zone.js/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-i386.bin" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-i386.bin" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-x86_64.bin" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-x86_64.bin" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/prepared-platforms.json" afterPath="$PROJECT_DIR$/platforms/ios/build/prepared-platforms.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-bykzkmxibisgwhckpyfsagseromi/VirtualPlayground-Prefix.pch.data" afterPath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-bykzkmxibisgwhckpyfsagseromi/VirtualPlayground-Prefix.pch.data" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-bykzkmxibisgwhckpyfsagseromi/VirtualPlayground-Prefix.pch.pch" afterPath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-bykzkmxibisgwhckpyfsagseromi/VirtualPlayground-Prefix.pch.pch" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-dtvhdyzjvejfsbbyzyjoquqpysja/VirtualPlayground-Prefix.pch.d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-dtvhdyzjvejfsbbyzyjoquqpysja/VirtualPlayground-Prefix.pch.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-dtvhdyzjvejfsbbyzyjoquqpysja/VirtualPlayground-Prefix.pch.dia" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-dtvhdyzjvejfsbbyzyjoquqpysja/VirtualPlayground-Prefix.pch.pch" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-dtvhdyzjvejfsbbyzyjoquqpysja/VirtualPlayground-Prefix.pch.pch.hash-criteria" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-epcrsdqpxwignbbqvvkkvlkmgyhs/VirtualPlayground-Prefix.pch.data" afterPath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-epcrsdqpxwignbbqvvkkvlkmgyhs/VirtualPlayground-Prefix.pch.data" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-epcrsdqpxwignbbqvvkkvlkmgyhs/VirtualPlayground-Prefix.pch.pch" afterPath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-epcrsdqpxwignbbqvvkkvlkmgyhs/VirtualPlayground-Prefix.pch.pch" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-hitejhjnytoakweheewfpyszdcba/VirtualPlayground-Prefix.pch.d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-hitejhjnytoakweheewfpyszdcba/VirtualPlayground-Prefix.pch.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-hitejhjnytoakweheewfpyszdcba/VirtualPlayground-Prefix.pch.dia" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-hitejhjnytoakweheewfpyszdcba/VirtualPlayground-Prefix.pch.pch" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/VirtualPlayground-Prefix-hitejhjnytoakweheewfpyszdcba/VirtualPlayground-Prefix.pch.pch.hash-criteria" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,14 +271,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sales.component.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sales.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/sales/sales.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            <state relative-caret-position="245">
+              <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
+                <element signature="e#313#444#0" expanded="false" />
+                <element signature="n#!!block;n#submit#0;n#SalesComponent#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sales.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sales/sales.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="32" column="65" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sales.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sales/sales.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -44,21 +320,22 @@
       <file leaf-file-name="login.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/login/login.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" column="70" lean-forward="false" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+            <state relative-caret-position="141">
+              <caret line="20" column="70" lean-forward="false" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="92" />
               <folding>
                 <element signature="e#0#65#0" expanded="true" />
+                <element signature="n#!!block;n#alert#0;n#LoginComponent#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="377">
-                <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <first_editor relative-caret-position="216">
+                <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -71,7 +348,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="244">
-                <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -104,6 +381,7 @@
       <find>focus</find>
       <find>subscr</find>
       <find>_subscribers</find>
+      <find>alert</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -120,16 +398,16 @@
         <option value="$PROJECT_DIR$/app/home/home.component.html" />
         <option value="$PROJECT_DIR$/app/login/login.component.html" />
         <option value="$PROJECT_DIR$/app/shared/user.service.ts" />
-        <option value="$PROJECT_DIR$/app/login/login.component.ts" />
         <option value="$PROJECT_DIR$/app/app-routing.module.ts" />
         <option value="$PROJECT_DIR$/app/sales/sales.module.ts" />
         <option value="$PROJECT_DIR$/app/sales/sales-routing.module.ts" />
         <option value="$PROJECT_DIR$/app/shared/order.model.ts" />
+        <option value="$PROJECT_DIR$/app/shared/backend.service.ts" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app/login/login.component.ts" />
         <option value="$PROJECT_DIR$/app/sales/sales.component.css" />
         <option value="$PROJECT_DIR$/app/sales/sales.component.html" />
         <option value="$PROJECT_DIR$/app/sales/sales.component.ts" />
-        <option value="$PROJECT_DIR$/app/shared/backend.service.ts" />
-        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -143,9 +421,8 @@
     <handled-path value="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/tns_modules/kinvey-nativescript-sdk/node_modules" />
     <handled-path value="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/tns_modules/kinvey-nativescript-sdk/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1787" />
-    <option name="y" value="-217" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="825" />
   </component>
@@ -171,6 +448,11 @@
             <path>
               <item name="VirtualPlayground" type="b2602c69:ProjectViewProjectNode" />
               <item name="VirtualPlayground" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualPlayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualPlayground" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,24 +504,23 @@
       <workItem from="1525210978349" duration="2291000" />
       <workItem from="1525331248778" duration="345000" />
       <workItem from="1525421244940" duration="15359000" />
-      <workItem from="1525775396040" duration="2370000" />
+      <workItem from="1525775396040" duration="9169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29744000" />
+    <option name="totallyTimeSpent" value="36543000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1787" y="-217" width="1440" height="825" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921812" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -274,6 +555,12 @@
         <option value="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/sales/sales-routing.module.js" />
         <option value="$PROJECT_DIR$/app/shared/order.model.js" />
         <option value="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/shared/order.model.js" />
+        <option value="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/sales/sales.module.js" />
+        <option value="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/sales/sales-routing.module.js" />
+        <option value="$PROJECT_DIR$/platforms/ios/VirtualPlayground/app/login/backup -login.component.js" />
+        <option value="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/shared/order.model.js" />
+        <option value="$PROJECT_DIR$/platforms/ios/build/emulator/VirtualPlayground.app/app/login/backup -login.component.js" />
+        <option value="$PROJECT_DIR$/app/login/backup -login.component.js" />
       </list>
     </option>
   </component>
@@ -314,6 +601,7 @@
           <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
           <folding>
             <element signature="e#0#65#0" expanded="true" />
+            <element signature="n#!!block;n#alert#0;n#LoginComponent#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -369,6 +657,7 @@
           <caret line="57" column="40" lean-forward="true" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
           <folding>
             <element signature="e#0#65#0" expanded="true" />
+            <element signature="n#!!block;n#alert#0;n#LoginComponent#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -569,13 +858,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sales/sales.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="31" column="42" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/kinvey-nativescript-sdk/kinvey-nativescript-sdk.ios.js.map">
       <provider editor-type-id="sourcemapFileViewerProvider">
         <state />
@@ -597,6 +879,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4784">
           <caret line="285" column="22" lean-forward="true" selection-start-line="285" selection-start-column="22" selection-end-line="285" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -604,23 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sales/sales.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sales/sales.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,21 +908,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/login/login.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="70" lean-forward="false" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
-          <folding>
-            <element signature="e#0#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../khabane/Pitch_Analyser/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="244">
-            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -666,11 +922,50 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="377">
-            <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <first_editor relative-caret-position="216">
+            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="20" column="70" lean-forward="false" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="92" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+            <element signature="n#!!block;n#alert#0;n#LoginComponent#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sales/sales.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="32" column="65" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sales/sales.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sales/sales.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#313#444#0" expanded="false" />
+            <element signature="n#!!block;n#submit#0;n#SalesComponent#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

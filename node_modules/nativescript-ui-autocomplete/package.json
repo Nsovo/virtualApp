@@ -1,28 +1,33 @@
 {
-  "_from": "nativescript-ui-autocomplete@^3.6.0",
+  "_args": [
+    [
+      "nativescript-ui-autocomplete@3.7.0",
+      "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground"
+    ]
+  ],
+  "_from": "nativescript-ui-autocomplete@3.7.0",
   "_id": "nativescript-ui-autocomplete@3.7.0",
   "_inBundle": false,
   "_integrity": "sha512-upiGMLYUsoTxzog+xfAxPZHz5lLa+rmPOdxzw3UtxP2BV+yJPHS5jxIw8/LNYly5GCMSwrrsEEExnwMwXH/0zg==",
   "_location": "/nativescript-ui-autocomplete",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-ui-autocomplete@^3.6.0",
+    "raw": "nativescript-ui-autocomplete@3.7.0",
     "name": "nativescript-ui-autocomplete",
     "escapedName": "nativescript-ui-autocomplete",
-    "rawSpec": "^3.6.0",
+    "rawSpec": "3.7.0",
     "saveSpec": null,
-    "fetchSpec": "^3.6.0"
+    "fetchSpec": "3.7.0"
   },
   "_requiredBy": [
     "/",
     "/nativescript-ui-dataform"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-ui-autocomplete/-/nativescript-ui-autocomplete-3.7.0.tgz",
-  "_shasum": "c07182197e0a136dbb7c22ecb6545d4163629828",
-  "_spec": "nativescript-ui-autocomplete@^3.6.0",
-  "_where": "/Users/Nsovo/Downloads/NSPlayground",
+  "_spec": "3.7.0",
+  "_where": "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground",
   "author": {
     "name": "NativeScript Team",
     "email": "nativescriptplugins@progress.com"
@@ -31,11 +36,9 @@
   "bugs": {
     "url": "https://github.com/telerik/nativescript-ui-feedback/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "nativescript-ui-core": "^1.0.0"
   },
-  "deprecated": false,
   "description": "Improve data entry speed and accuracy by triggering auto-completion for text entries.",
   "devDependencies": {
     "@angular/common": "^5.0.0",
