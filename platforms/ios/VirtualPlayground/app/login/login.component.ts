@@ -43,7 +43,7 @@ export class LoginComponent {
     }
 
     redirect(){
-        if (this.user.email == 'nsovom@khabane.co.za')
+        if (this.user.email == 'sales')
             this.router.navigate(["/sales"]);
         else
             this.router.navigate(["/home"]);
@@ -75,23 +75,7 @@ export class LoginComponent {
     }
 
     forgotPassword() {
-        prompt({
-            title: "Forgot Password",
-            message: "Enter the email address you used to register for APP NAME to reset your password.",
-            inputType: "email",
-            defaultText: "",
-            okButtonText: "Ok",
-            cancelButtonText: "Cancel"
-        }).then((data) => {
-            if (data.result) {
-                this.userService.resetPassword(data.text.trim())
-                    .then(() => {
-                        this.alert("Your password was successfully reset. Please check your email for instructions on choosing a new password.");
-                    }).catch(() => {
-                        this.alert("Unfortunately, an error occurred resetting your password.");
-                    });
-            }
-        });
+        this.alert('Please contact you Administrator')
     }
 
     focusPassword() {
@@ -105,7 +89,7 @@ export class LoginComponent {
 
     alert(message: string) {
         return alert({
-            title: "APP NAME",
+            title: "VIRTUAL SHOP",
             okButtonText: "OK",
             message: message
         });

@@ -1,8 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { Order } from "../shared/order.model";
 import { Kinvey } from 'kinvey-nativescript-sdk';
+import { alert } from "tns-core-modules/ui/dialogs";
+import { Router } from "@angular/router";
 const dataStore = Kinvey.DataStore.collection('order');
-
 
 @Component({
   moduleId: module.id,
@@ -12,33 +13,57 @@ const dataStore = Kinvey.DataStore.collection('order');
 })
 export class SalesComponent implements OnInit {
   order:Order;
-  constructor() {
+  constructor(private router: Router) {
     this.order = new Order();
   }
 
   ngOnInit() { }
 
   submit() {
-      this.order.product_name = 'Test';
-      this.order.customer_location = 'Test';
-      this.order.customer_name = 'Test';
-      this.order.quantity= 'Test';
-      this.order.size = 'Test';
 
-      const promise = dataStore.save({
-          _id: '1',
-          field: 'value'
-      }).then(function onSuccess(entity) {
-          return entity;
-          // ...
-      }).catch(function onError(error) {
+      const entityOrder = new Order();
+      entityOrder.size='1';
+      entityOrder.product_name ='test';
+
+      const response = dataStore.save(entityOrder).then(function (response) {
+          return response
+      })
+      .catch(function onError(error) {
           return error;
       });
-    console.log('HERE PROMISE *********************');
 
-      console.log(JSON.stringify(promise.then()))
+
+     // if(true )
+          this.alert("You have successfully save.");
+          this.clear();
+      //else
+         // this.alert("Error try again or contact administrator.");
+
+
   }
 
+  exit(){
+      this.router.navigate(["/login"]);
+  }
 
+  view(){
+      this.router.navigate(["/customers"]);
+  }
+
+  clear(){
+      this.order.product_name='';
+      this.order.size ='';
+      this.order.quantity='';
+      this.order.customer_name='';
+      this.order.customer_location='';
+  }
+
+  alert(message: string) {
+        return alert({
+            title: "VIRTUAL SHOP",
+            okButtonText: "OK",
+            message: message
+        });
+    }
 }
 export class SalesModule { }

@@ -5,8 +5,6 @@ import { alert } from "tns-core-modules/ui/dialogs";
 import { Router } from "@angular/router";
 const dataStore = Kinvey.DataStore.collection('order');
 
-
-
 @Component({
   moduleId: module.id,
   selector: 'app-sales',
@@ -27,8 +25,6 @@ export class SalesComponent implements OnInit {
       entityOrder.size='1';
       entityOrder.product_name ='test';
 
-
-
       const response = dataStore.save(entityOrder).then(function (response) {
           return response
       })
@@ -45,25 +41,29 @@ export class SalesComponent implements OnInit {
 
 
   }
+
   exit(){
       this.router.navigate(["/login"]);
   }
-  viewCustomers(){
-      this.router.navigate(["/customerDetails"]);
+
+  view(){
+      this.router.navigate(["/customers"]);
   }
 
   clear(){
       this.order.product_name='';
       this.order.size ='';
+      this.order.quantity='';
+      this.order.customer_name='';
+      this.order.customer_location='';
   }
 
   alert(message: string) {
         return alert({
-            title: "APP NAME",
+            title: "VIRTUAL SHOP",
             okButtonText: "OK",
             message: message
         });
     }
-
 }
 export class SalesModule { }

@@ -69,7 +69,7 @@ export class LoginComponent {
 
     alert(message: string) {
         return alert({
-            title: "APP NAME",
+            title: "VIRTUAL SHOP",
             okButtonText: "OK",
             message: message
         });

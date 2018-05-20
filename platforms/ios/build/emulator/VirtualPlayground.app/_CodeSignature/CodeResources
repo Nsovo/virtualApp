@@ -86,11 +86,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		yrCTR/vpFq04NLqY34NaG52WpqU=
+		aw8okMvFTlRUm6gsav7GmQAMh10=
 		</data>
 		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager</key>
 		<data>
-		gnIm6mjMq8j4h+LO+zlQxYK1HYA=
+		p0Vsm28Np9CAyI5r0R/BxoH9xUc=
 		</data>
 		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png</key>
 		<data>
@@ -126,11 +126,11 @@
 		</data>
 		<key>Frameworks/IQKeyboardManager.framework/Info.plist</key>
 		<data>
-		qa9GMWN0gu9ZHSjjL53G4YpEoVU=
+		6mFhlOhz9a7Oremjwv7ODCODjsk=
 		</data>
 		<key>Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Qy8aQgUFvtDYA+gA3uXimxQbV2U=
+		5YJJ2jOyJm9yH5FE3TfM9GO+lqE=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -146,11 +146,11 @@
 		</data>
 		<key>Frameworks/SAMKeychain.framework/Info.plist</key>
 		<data>
-		sVaILqtP7SG5oWQIToIU2hgHb40=
+		aB9DAB6og/Oo+mr800MuT83x9Kw=
 		</data>
 		<key>Frameworks/SAMKeychain.framework/SAMKeychain</key>
 		<data>
-		YHyGL+krIClKhTW1qk0kFK5RFOU=
+		AcJCxAoyMp/CH2fqRm9slHASH1M=
 		</data>
 		<key>Frameworks/SAMKeychain.framework/SAMKeychain.bundle/en.lproj/SAMKeychain.strings</key>
 		<dict>
@@ -163,7 +163,7 @@
 		</dict>
 		<key>Frameworks/SAMKeychain.framework/_CodeSignature/CodeResources</key>
 		<data>
-		AZMLLpt3fec4dGXu9wGqC1GFWFc=
+		fytQj5ZvdyibJSLckHuc025PmeM=
 		</data>
 		<key>Frameworks/TNSAutoComplete.framework/Info.plist</key>
 		<data>
@@ -275,7 +275,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Syy8ZwCFjjhtdwzuV+rKkS/lzXs=
+		FOaBLfLBnZ21f3RA2eRXJBvp/1E=
 		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
@@ -343,7 +343,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		/bipeQrayYrNMcudbHr623D58Ng=
+		wJJJ3KGlgTomqzT31cn+LdJu+hQ=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -351,7 +351,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		RKCe5f+X90x3acxtg3Iv25Bfpdc=
+		UxkCPAZLZb2NHSusNc5oKmUleNs=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -359,11 +359,11 @@
 		</data>
 		<key>app/app-routing.module.js</key>
 		<data>
-		4VPfos4uZcpSopSS6BeMfsdEAH0=
+		4UonRBRhEDcF3pZuHVhzXL2FIPw=
 		</data>
 		<key>app/app-routing.module.ts</key>
 		<data>
-		AyyN2goajS1YS6Zvqy+b3TWJFvw=
+		m+YjSd5ADswpLWHT3L0faBnO/Ug=
 		</data>
 		<key>app/app.component.html</key>
 		<data>
@@ -383,11 +383,51 @@
 		</data>
 		<key>app/app.module.js</key>
 		<data>
-		G0LJeqEIQnY+nZ6hAd+et2udKio=
+		6xUUf+l88d7bsbUy00jF6fX+IJw=
 		</data>
 		<key>app/app.module.ts</key>
 		<data>
-		Sw/i3qtwaSLwbJjbfXj1Y5/4aDc=
+		nDoxvmaI6bcSm7Q71C73qU50hh0=
+		</data>
+		<key>app/customers/customer.service.js</key>
+		<data>
+		2s/TUtPpTDrB1BGDpNxrK2qmvto=
+		</data>
+		<key>app/customers/customer.service.ts</key>
+		<data>
+		4ZjX79wn8FCe1MQW+zqjcNFQMC4=
+		</data>
+		<key>app/customers/customers-routing.module.js</key>
+		<data>
+		1xIwpI30IxsYJdlONnZwqMG1Us4=
+		</data>
+		<key>app/customers/customers-routing.module.ts</key>
+		<data>
+		6E9XGo3TPfDX2gmdt1GFnbhPd0o=
+		</data>
+		<key>app/customers/customers.component.html</key>
+		<data>
+		nE83LLSq/+EYYgc8bc/MhzoFs6w=
+		</data>
+		<key>app/customers/customers.component.js</key>
+		<data>
+		u7JL+xyObR72xUXj00wIO7CjYGM=
+		</data>
+		<key>app/customers/customers.component.scss</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>app/customers/customers.component.ts</key>
+		<data>
+		wbs3/yPcirStRBwo0TYZrpYA4UQ=
+		</data>
+		<key>app/customers/customers.module.js</key>
+		<data>
+		5iS/bHcDhGtkw7Dzpg/ZhPbxOVY=
+		</data>
+		<key>app/customers/customers.module.ts</key>
+		<data>
+		0DuTfTqmWx8RCs9OZK/YGmjeV2U=
 		</data>
 		<key>app/home/home-routing.module.js</key>
 		<data>
@@ -421,17 +461,33 @@
 		<data>
 		5Lg2qgakdo9xGGABcsS9oGa9QlU=
 		</data>
+		<key>app/images/12.png</key>
+		<data>
+		w95vu9TwHaSGlyNP4xlRujCbeh8=
+		</data>
+		<key>app/images/l.png</key>
+		<data>
+		OawZeGoKdV7ONYFgGa8st4ypWyM=
+		</data>
+		<key>app/images/l2.png</key>
+		<data>
+		X8kemVTkOgIkL3J7YuctKX4g+Xc=
+		</data>
+		<key>app/images/l4.png</key>
+		<data>
+		zm9XLOz/DOO4XikkHKIoqoI/75Y=
+		</data>
 		<key>app/images/logo.png</key>
 		<data>
 		nrzGSVkp3wpsmXJE8Mtlv5UCqvM=
 		</data>
 		<key>app/login/backup -login.component.js</key>
 		<data>
-		8EFz7/Oxba268E4bIJZ5ljUisXE=
+		PYaK5QYRg+EZtBxzdQEyKTjb7zU=
 		</data>
 		<key>app/login/backup -login.component.ts</key>
 		<data>
-		OEuIHuD6H2+1n5sWKtnRga+P2KI=
+		4zCXgaaYBU7j62vs4SRXa82paAw=
 		</data>
 		<key>app/login/login.component.css</key>
 		<data>
@@ -439,15 +495,15 @@
 		</data>
 		<key>app/login/login.component.html</key>
 		<data>
-		3XO+wQm/oZ/qre3oUGs68E4Dvz8=
+		lWgrP5xdR9DSEhkGhVypL8/Og6E=
 		</data>
 		<key>app/login/login.component.js</key>
 		<data>
-		mJHWxIGUYPDWZ5mdPqUo6kKjfe4=
+		D4OIjJtx31/FmWSMpvzorMaCvyA=
 		</data>
 		<key>app/login/login.component.ts</key>
 		<data>
-		PllqA/fP5ze3UW4nmnsKnMusCG4=
+		6IXuCndLpYT8Tx1j8Rpf6U9rdJ4=
 		</data>
 		<key>app/main.aot.ts</key>
 		<data>
@@ -475,19 +531,19 @@
 		</data>
 		<key>app/sales/sales.component.css</key>
 		<data>
-		CPnag+Om2sfb3r1kl+kg5mGmBCk=
+		JeOU9N0l/4yYmmdJ51KO1udOqas=
 		</data>
 		<key>app/sales/sales.component.html</key>
 		<data>
-		C9VEt3fkPEt9IWrXnzvphhDCU1Q=
+		fJGXb6zdMDxprgx/YojiP11D7co=
 		</data>
 		<key>app/sales/sales.component.js</key>
 		<data>
-		uwoZcWhhEt0X019wPbUyf8kfnF4=
+		rwvUpmFrI5jJUHzOogw8OBrvfgc=
 		</data>
 		<key>app/sales/sales.component.ts</key>
 		<data>
-		YzsRKWnT32eiWCjLQAClukmLqeM=
+		83D4HsC2lRrIsaZ6tp3YK3bPknc=
 		</data>
 		<key>app/sales/sales.module.js</key>
 		<data>
@@ -16115,7 +16171,7 @@
 		</data>
 		<key>app/tns_modules/kinvey-nativescript-sdk/kinvey.d.ts</key>
 		<data>
-		5ayc+A6Bh43WTz8EJMDIX5NbTPs=
+		XeUiqPdKp/2lniskuWB64weblaE=
 		</data>
 		<key>app/tns_modules/kinvey-nativescript-sdk/node_modules/nativescript-sqlite/.npmignore</key>
 		<data>
@@ -33499,7 +33555,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/package.json</key>
 		<data>
-		qqUTOaBt8eCicF7V4Q0Z3U1YiHE=
+		Z1PSeIMmSNCd0UkalyZcx42ej7w=
 		</data>
 		<key>app/tns_modules/tns-core-modules/platform/package.json</key>
 		<data>
@@ -33603,7 +33659,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/builder/builder.js</key>
 		<data>
-		T6ci1zapFRc07rQhhHY08afd48o=
+		IUVkfSROpKowPwsD0DdRDmdVfY8=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/builder/component-builder/component-builder.js</key>
 		<data>
@@ -33687,7 +33743,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/core/view/view.js</key>
 		<data>
-		VRmLrgcBvBee7MR95wsoH8gSHFg=
+		Wbe+wUThSMr7C5JmIxZn0irPJVI=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/core/weak-event-listener/package.json</key>
 		<data>
@@ -34941,22 +34997,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yrCTR/vpFq04NLqY34NaG52WpqU=
+			aw8okMvFTlRUm6gsav7GmQAMh10=
 			</data>
 			<key>hash2</key>
 			<data>
-			/HjA9ecZD9Qt4MUKUX6ZXTuNfzsw2KEe1WDkGlmgfrE=
+			mG88RzbFAlFRMzltGYGUMPIjTjxp+2Sqp8k+5ZUo3Ac=
 			</data>
 		</dict>
 		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gnIm6mjMq8j4h+LO+zlQxYK1HYA=
+			p0Vsm28Np9CAyI5r0R/BxoH9xUc=
 			</data>
 			<key>hash2</key>
 			<data>
-			KrSHErVWWPBRmj4lvgciwMB96mlExSdrrYXSN53UYVA=
+			rJc+dmU1NUgOutg7n78Ma0zt7ZD+Osf2skLI7xeqzDw=
 			</data>
 		</dict>
 		<key>Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png</key>
@@ -35051,22 +35107,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qa9GMWN0gu9ZHSjjL53G4YpEoVU=
+			6mFhlOhz9a7Oremjwv7ODCODjsk=
 			</data>
 			<key>hash2</key>
 			<data>
-			t7KSC+/if4PcuhgeYDw3r2aGt9nUvicvGvyZDxgrIaA=
+			WXT2FRS7quxq/wBtBdKEJAhul2dOetd1Js1H6krEvJU=
 			</data>
 		</dict>
 		<key>Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Qy8aQgUFvtDYA+gA3uXimxQbV2U=
+			5YJJ2jOyJm9yH5FE3TfM9GO+lqE=
 			</data>
 			<key>hash2</key>
 			<data>
-			hBJdRSgp21xlLncmS5qMNgkPn5F0k5jZWwI/6oRvuKY=
+			1K+oxzkO0IYE/kC8GQXSurcr837QVpy1ZABuOPLC87Q=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -35106,22 +35162,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sVaILqtP7SG5oWQIToIU2hgHb40=
+			aB9DAB6og/Oo+mr800MuT83x9Kw=
 			</data>
 			<key>hash2</key>
 			<data>
-			g6X7HGqI/sEAqSAnz5K4eCqUt2kvQItcxqKS3z9J6ok=
+			vMpG+02kTYHVZ4md3eSXoo4a3hkcJWjn9hxuMIfL92o=
 			</data>
 		</dict>
 		<key>Frameworks/SAMKeychain.framework/SAMKeychain</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YHyGL+krIClKhTW1qk0kFK5RFOU=
+			AcJCxAoyMp/CH2fqRm9slHASH1M=
 			</data>
 			<key>hash2</key>
 			<data>
-			bixSzWRr02WqFq22K5P96jK25oupnTpvpibMmsjHOXw=
+			wSmRQtVUtLMrB7H5sJAdD+dLbTwwkmqA6HVY1YzjWG8=
 			</data>
 		</dict>
 		<key>Frameworks/SAMKeychain.framework/SAMKeychain.bundle/en.lproj/SAMKeychain.strings</key>
@@ -35141,11 +35197,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AZMLLpt3fec4dGXu9wGqC1GFWFc=
+			fytQj5ZvdyibJSLckHuc025PmeM=
 			</data>
 			<key>hash2</key>
 			<data>
-			NEDGym7chic3ppYabfnDoPdzyn7qcTlSJwT6IWpggQg=
+			xmfMalwdQODv0qGssOCQSs2kl50r9UBt5QojugaOrBc=
 			</data>
 		</dict>
 		<key>Frameworks/TNSAutoComplete.framework/Info.plist</key>
@@ -35625,11 +35681,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/bipeQrayYrNMcudbHr623D58Ng=
+			wJJJ3KGlgTomqzT31cn+LdJu+hQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			t2qrOVTw3wm5X0lW0sG7Lk/EYS0meo6/b4woV1PwXPY=
+			JPylB33H2RBB/QUTywO/OZcPK3CvoB0uDGX8cmfTtBo=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -35647,33 +35703,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RKCe5f+X90x3acxtg3Iv25Bfpdc=
+			UxkCPAZLZb2NHSusNc5oKmUleNs=
 			</data>
 			<key>hash2</key>
 			<data>
-			xLDKn+hCKs1BmdmAj9X2XdOkyYeWR7VljrRg15KQ00M=
+			lj8X0E8ok5QPwR9G7zxfz0nC0/ta9bdNl1+gX3Y9B/M=
 			</data>
 		</dict>
 		<key>app/app-routing.module.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4VPfos4uZcpSopSS6BeMfsdEAH0=
+			4UonRBRhEDcF3pZuHVhzXL2FIPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			N/ju3/J6d5GIqhQiRrNeXQKDwgfp8QIcIZJv5e7ZUAQ=
+			vyDI+zlsZvsKhswoDOV2lfqjcldmvzwnV9JZfNOgw48=
 			</data>
 		</dict>
 		<key>app/app-routing.module.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AyyN2goajS1YS6Zvqy+b3TWJFvw=
+			m+YjSd5ADswpLWHT3L0faBnO/Ug=
 			</data>
 			<key>hash2</key>
 			<data>
-			vZeAO+58w/Rpi7yeYwqzXPMl+XHIwRfFzIymYXgsSD4=
+			OMNiXRw6PTw64Rgp97FjHUisLTgUJ4R68s6vdT2+a48=
 			</data>
 		</dict>
 		<key>app/app.component.html</key>
@@ -35724,22 +35780,132 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			G0LJeqEIQnY+nZ6hAd+et2udKio=
+			6xUUf+l88d7bsbUy00jF6fX+IJw=
 			</data>
 			<key>hash2</key>
 			<data>
-			GWhofgbd2haVEftduGbeW/WJNWSCV7hf8lQ9pdPzjvM=
+			ZIciAcHUg1htaIBlAtDBVpeXq1HYynVZhyqprmwMc/g=
 			</data>
 		</dict>
 		<key>app/app.module.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Sw/i3qtwaSLwbJjbfXj1Y5/4aDc=
+			nDoxvmaI6bcSm7Q71C73qU50hh0=
 			</data>
 			<key>hash2</key>
 			<data>
-			NxCM0NRDEtgXjAhaUFDohZQIpPXDKdx9UNww019Y56E=
+			bKuCbkvzXSDjez7BKrWaRAdrtakn/1poof+qgy9fIis=
+			</data>
+		</dict>
+		<key>app/customers/customer.service.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2s/TUtPpTDrB1BGDpNxrK2qmvto=
+			</data>
+			<key>hash2</key>
+			<data>
+			IhMhPWEo4xuoVY1jUN9DMRRFJ8Qke8gekkR78MEW+qk=
+			</data>
+		</dict>
+		<key>app/customers/customer.service.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4ZjX79wn8FCe1MQW+zqjcNFQMC4=
+			</data>
+			<key>hash2</key>
+			<data>
+			/q6nxIAARhCVDcBWUXdtDaUMvNTuOAqwoVGGEQIl1EQ=
+			</data>
+		</dict>
+		<key>app/customers/customers-routing.module.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1xIwpI30IxsYJdlONnZwqMG1Us4=
+			</data>
+			<key>hash2</key>
+			<data>
+			MTpO1H9eO65a7+i1v8sKJbSllwrJusr5qgQSMbb29E8=
+			</data>
+		</dict>
+		<key>app/customers/customers-routing.module.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6E9XGo3TPfDX2gmdt1GFnbhPd0o=
+			</data>
+			<key>hash2</key>
+			<data>
+			8AkF6uK8Zmh5rk5y7ubLfeKnPa2chzXcpU7qqM8+OZI=
+			</data>
+		</dict>
+		<key>app/customers/customers.component.html</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nE83LLSq/+EYYgc8bc/MhzoFs6w=
+			</data>
+			<key>hash2</key>
+			<data>
+			KXb0wReoc5ule5UUaUgicZkVGqtrwD6DIzEWUj85+mM=
+			</data>
+		</dict>
+		<key>app/customers/customers.component.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			u7JL+xyObR72xUXj00wIO7CjYGM=
+			</data>
+			<key>hash2</key>
+			<data>
+			0199Y88wjnjsn7vh42b81WXScTpLd6DXU7ftOXe/vWk=
+			</data>
+		</dict>
+		<key>app/customers/customers.component.scss</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>app/customers/customers.component.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wbs3/yPcirStRBwo0TYZrpYA4UQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			kdsR/xUVq+BAya9xP4TXT4rVVGAOc3+uq2KMmdgoURY=
+			</data>
+		</dict>
+		<key>app/customers/customers.module.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5iS/bHcDhGtkw7Dzpg/ZhPbxOVY=
+			</data>
+			<key>hash2</key>
+			<data>
+			SlvCRMq3u5HyF/xOvku5aTRB0FiICPpDpB/iMaXU+Pc=
+			</data>
+		</dict>
+		<key>app/customers/customers.module.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0DuTfTqmWx8RCs9OZK/YGmjeV2U=
+			</data>
+			<key>hash2</key>
+			<data>
+			7RHzqu7az0Yk88p88jESEyRi5aFpd3mmYOp3lRAoFLQ=
 			</data>
 		</dict>
 		<key>app/home/home-routing.module.js</key>
@@ -35830,6 +35996,50 @@
 			js1UVyEPCHhFdT71myGYSgsS2/ojrUWIv2sPbNZP2bU=
 			</data>
 		</dict>
+		<key>app/images/12.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			w95vu9TwHaSGlyNP4xlRujCbeh8=
+			</data>
+			<key>hash2</key>
+			<data>
+			A5JujfHPtVjIQbkSwuado/6WGAy6AnpQMLWf4KuMEGs=
+			</data>
+		</dict>
+		<key>app/images/l.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OawZeGoKdV7ONYFgGa8st4ypWyM=
+			</data>
+			<key>hash2</key>
+			<data>
+			7hO3m9k5gb6ZW++9jT3RNY3Jk8pORUCpiLjQbJEJqw4=
+			</data>
+		</dict>
+		<key>app/images/l2.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X8kemVTkOgIkL3J7YuctKX4g+Xc=
+			</data>
+			<key>hash2</key>
+			<data>
+			6+FHyzpmt8kFvSPmwaPSCkLSLSPAPivlsz61lSPjEnM=
+			</data>
+		</dict>
+		<key>app/images/l4.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zm9XLOz/DOO4XikkHKIoqoI/75Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			/hAGumtNk4qm8V9XHLEFevU/Udm9MGoepbz9zbT9iTg=
+			</data>
+		</dict>
 		<key>app/images/logo.png</key>
 		<dict>
 			<key>hash</key>
@@ -35845,22 +36055,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8EFz7/Oxba268E4bIJZ5ljUisXE=
+			PYaK5QYRg+EZtBxzdQEyKTjb7zU=
 			</data>
 			<key>hash2</key>
 			<data>
-			y6Mv0xzMi6EdFDXB3dmVbs1OIQZeB109h/Vsu55qiuo=
+			E8ek2/CSp9F1n7ENcBusStUVNdX7qv10waf/DS0STrI=
 			</data>
 		</dict>
 		<key>app/login/backup -login.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OEuIHuD6H2+1n5sWKtnRga+P2KI=
+			4zCXgaaYBU7j62vs4SRXa82paAw=
 			</data>
 			<key>hash2</key>
 			<data>
-			YU/WPEqnccY9uOJvVERmDLa2R8Rb2vtpUyGC+RPTt04=
+			FKkDDaNnxXYJ+1nES3EgsG7+7C55t4FA0nuPC8tCgrg=
 			</data>
 		</dict>
 		<key>app/login/login.component.css</key>
@@ -35878,33 +36088,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3XO+wQm/oZ/qre3oUGs68E4Dvz8=
+			lWgrP5xdR9DSEhkGhVypL8/Og6E=
 			</data>
 			<key>hash2</key>
 			<data>
-			tU3DtALTD+8aNX0AR7Ax6NS4d50iihoalRiYJMYLPxo=
+			8bgoPGM00RByoMeKvf7sHl+ODhCqo6QY3A44XGGQhPI=
 			</data>
 		</dict>
 		<key>app/login/login.component.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mJHWxIGUYPDWZ5mdPqUo6kKjfe4=
+			D4OIjJtx31/FmWSMpvzorMaCvyA=
 			</data>
 			<key>hash2</key>
 			<data>
-			q927Ieyf8QAI5hWhHAkiDqWxD0LbmtFi0bLVKLNWIeU=
+			MBG3+10pRAQl2BPxa/CHZJUxBFFw1HsQ+XNvoBgWgMA=
 			</data>
 		</dict>
 		<key>app/login/login.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PllqA/fP5ze3UW4nmnsKnMusCG4=
+			6IXuCndLpYT8Tx1j8Rpf6U9rdJ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			o90pvqT2tEd8Ea3CNTCoRN+NHbqGJXgFGPDrhGBldqA=
+			wb8UeTpY3vecYvp0yRUU+n5WehUdBDoupLX5yTC/oUI=
 			</data>
 		</dict>
 		<key>app/main.aot.ts</key>
@@ -35977,44 +36187,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CPnag+Om2sfb3r1kl+kg5mGmBCk=
+			JeOU9N0l/4yYmmdJ51KO1udOqas=
 			</data>
 			<key>hash2</key>
 			<data>
-			bOlWRQqosHXYyvVQ+4yw0Zyr7mlZT0L3ZeAWJSyczq4=
+			PG0M724L6lp4XhYyeSmUzCIBSS87J7DBsUoxXlbZmH4=
 			</data>
 		</dict>
 		<key>app/sales/sales.component.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C9VEt3fkPEt9IWrXnzvphhDCU1Q=
+			fJGXb6zdMDxprgx/YojiP11D7co=
 			</data>
 			<key>hash2</key>
 			<data>
-			1Ob6L6w0rFLsFI+6+S2XmWcTnXtj3Mu4q+CAZZevg3Q=
+			ycSj1fChX6d6JLfTvA6R9w5yVrAE6xZT+dP1KIdC740=
 			</data>
 		</dict>
 		<key>app/sales/sales.component.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uwoZcWhhEt0X019wPbUyf8kfnF4=
+			rwvUpmFrI5jJUHzOogw8OBrvfgc=
 			</data>
 			<key>hash2</key>
 			<data>
-			EzSHMM/dG63dWaGPwNhRSy34dLzxttcNLSScXIuOLrM=
+			ZD038og5zIAl0HSUvfxQyiGMY0bMNBJE46GcHtUP4aU=
 			</data>
 		</dict>
 		<key>app/sales/sales.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YzsRKWnT32eiWCjLQAClukmLqeM=
+			83D4HsC2lRrIsaZ6tp3YK3bPknc=
 			</data>
 			<key>hash2</key>
 			<data>
-			S2MulYI0cndhCMgY62HY4iaqCboIq42ohLjTbugU8UE=
+			939FTHmw+rwLdxrG32ILoUseMf5vKsWMqQvmKDjnjxc=
 			</data>
 		</dict>
 		<key>app/sales/sales.module.js</key>
@@ -78987,11 +79197,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5ayc+A6Bh43WTz8EJMDIX5NbTPs=
+			XeUiqPdKp/2lniskuWB64weblaE=
 			</data>
 			<key>hash2</key>
 			<data>
-			nTeb4FkuP86E0apN+MTbNX2p+4YGyxq7kkXuD/MghUY=
+			TrNXQHDgOsiW0nE7x1RZTpgNO51vBf216tJo+e1Zh+8=
 			</data>
 		</dict>
 		<key>app/tns_modules/kinvey-nativescript-sdk/node_modules/nativescript-sqlite/.npmignore</key>
@@ -126793,11 +127003,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qqUTOaBt8eCicF7V4Q0Z3U1YiHE=
+			Z1PSeIMmSNCd0UkalyZcx42ej7w=
 			</data>
 			<key>hash2</key>
 			<data>
-			sFvXiP4JyAc7EjrV3yZUBHiHQ+5KTRiaaPnaFrkvsvM=
+			i1izGLA3MfWB7EtyfsOgK3kXtHK4EfrGiBtfZgtiEtc=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/platform/package.json</key>
@@ -127079,11 +127289,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T6ci1zapFRc07rQhhHY08afd48o=
+			IUVkfSROpKowPwsD0DdRDmdVfY8=
 			</data>
 			<key>hash2</key>
 			<data>
-			HO+DZkmo/sHlThg3TvpGeH7+Ns8VfL4IRlJj5e7WrzM=
+			rRI8dBtP471U0ob3lR/roExqB7Fu3dFd+dlfCn8mmqE=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/builder/component-builder/component-builder.js</key>
@@ -127310,11 +127520,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VRmLrgcBvBee7MR95wsoH8gSHFg=
+			Wbe+wUThSMr7C5JmIxZn0irPJVI=
 			</data>
 			<key>hash2</key>
 			<data>
-			yEfZowwM9Dm4n14phbefz8CMhZUXptozmC1uqf1Ad1U=
+			WeEO8erpgLewWfdiD4oDKjGlUETkh2S3v35zbZ2dV5U=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/core/weak-event-listener/package.json</key>

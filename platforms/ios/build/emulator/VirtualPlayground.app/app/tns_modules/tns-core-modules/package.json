@@ -1,8 +1,8 @@
 {
   "_from": "tns-core-modules",
-  "_id": "tns-core-modules@4.0.0",
+  "_id": "tns-core-modules@4.0.1",
   "_inBundle": false,
-  "_integrity": "sha1-lBcSJOrIKqW1hzp4qjCa7NPmNGo=",
+  "_integrity": "sha512-GgfwWC4TgqwSZeimR0mvCyrJjve31gSr3vhnEYQLD/8rQGu1ZS7U5tlHcgHsYtTKtwksxkovXAnHMPBz4MFRfQ==",
   "_location": "/tns-core-modules",
   "_phantomChildren": {},
   "_requested": {
@@ -19,8 +19,8 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-4.0.0.tgz",
-  "_shasum": "94171224eac82aa5b5873a78aa309aecd3e6346a",
+  "_resolved": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-4.0.1.tgz",
+  "_shasum": "dc9e8ac5d7d49c3000a50754d590dafed6f3f876",
   "_spec": "tns-core-modules",
   "_where": "/Users/Nsovo/Projects/Ndzalama/VirtualPlayground",
   "bundleDependencies": false,
@@ -59,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NativeScript/NativeScript/commit/eff264eb21620cdde28928835980efc4fd99ff50"
+    "url": "https://github.com/NativeScript/NativeScript/commit/67c1df35d4ab69a1fc5e5384464c9fec545d9a03"
   },
   "snapshot": {
     "android": {
@@ -72,5 +72,5 @@
     }
   },
   "typings": "tns-core-modules.d.ts",
-  "version": "4.0.0"
+  "version": "4.0.1"
 }
