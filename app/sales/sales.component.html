@@ -1,31 +1,30 @@
 
-<FlexboxLayout class="page">
   <StackLayout class="form">
     <Label class="header"
            text="New Order"></Label>
 
     <StackLayout class="input-field">
-      <TextField class="input" hint="Product Name" set-focus="true"  autocorrect="true"  [(ngModel)]="order.product_name" ></TextField>
+      <TextField class="input" hint="Product Name" set-focus="true"  autocorrect="true"  [(ngModel)]="product_name" ></TextField>
       <StackLayout class="hr-light"></StackLayout>
     </StackLayout>
 
     <StackLayout class="input-field">
-      <TextField   class="input" hint="Size"  [(ngModel)]="order.size" ></TextField>
+      <TextField   class="input" hint="Size"  [(ngModel)]="size" ></TextField>
       <StackLayout class="hr-light"></StackLayout>
     </StackLayout>
 
     <StackLayout class="input-field">
-      <TextField  class="input" hint="Quantity"  [(ngModel)]="order.quantity" ></TextField>
+      <TextField  class="input" hint="Quantity"  [(ngModel)]="quantity" ></TextField>
       <StackLayout class="hr-light"></StackLayout>
     </StackLayout>
 
     <StackLayout class="input-field">
-      <TextField  class="input" hint="Customer Name"  [(ngModel)]="order.customer_name" ></TextField>
+      <TextField  class="input" hint="Customer Name"  [(ngModel)]="customer_name" ></TextField>
       <StackLayout class="hr-light"></StackLayout>
     </StackLayout>
 
     <StackLayout class="input-field">
-      <TextField  class="input" hint="Customer Location"  [(ngModel)]="order.customer_location" ></TextField>
+      <TextField  class="input" hint="Customer Location"  [(ngModel)]="customer_location" ></TextField>
       <StackLayout class="hr-light"></StackLayout>
     </StackLayout>
 
@@ -34,4 +33,3 @@
     <!--<Button [text]="'Exit'" (tap)="exit()" class="btn btn-secondary m-t-20"></Button> -->
   </StackLayout>
 
-</FlexboxLayout>

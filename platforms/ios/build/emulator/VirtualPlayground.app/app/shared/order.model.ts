@@ -1,7 +1,15 @@
-export class Order {
-    product_name: string;
-    size: string;
-    quantity: string;
-    customer_name: string;
-    customer_location: string;
+
+import { Kinvey } from 'kinvey-nativescript-sdk';
+
+export class Order  implements Kinvey.Entity {
+    constructor(
+    public _id: string,
+    public product_name: string,
+    public size: number,
+    public quantity: string,
+    public customer_name: string,
+    public customer_location: string,
+    public done: boolean,
+    public deleted: boolean
+   ) {}
 }

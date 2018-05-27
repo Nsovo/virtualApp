@@ -249,7 +249,6 @@ export namespace Kinvey {
     _id: string;
     _acl?: Acl;
     _kmd?: any;
-    customer_name:string;
   }
 
   // SyncEntity interface

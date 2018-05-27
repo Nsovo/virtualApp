@@ -8,7 +8,7 @@ import { AppComponent } from "./app.component";
 import { LoginComponent } from "./login/login.component";
 
 import { UserService } from "./shared/user.service";
-import { CustomerService } from "./customers/customer.service"
+import { OrderService } from "./shared/order.service"
 
 @NgModule({
     bootstrap: [
@@ -26,7 +26,7 @@ import { CustomerService } from "./customers/customer.service"
     ],
     providers: [
         UserService,
-        CustomerService
+        OrderService
     ],
     schemas: [
         NO_ERRORS_SCHEMA

@@ -1,45 +1,45 @@
 import { Component, OnInit } from '@angular/core';
 import { Order } from "../shared/order.model";
-import { Kinvey } from 'kinvey-nativescript-sdk';
 import { alert } from "tns-core-modules/ui/dialogs";
 import { Router } from "@angular/router";
-const dataStore = Kinvey.DataStore.collection('order');
+import { OrderService} from "../shared/order.service";
 
 @Component({
   moduleId: module.id,
   selector: 'app-sales',
   templateUrl: './sales.component.html',
-  styleUrls: ['./sales.component.css']
+  styleUrls: ['./sales.component.css'],
+    providers: [OrderService]
 })
 export class SalesComponent implements OnInit {
-  order:Order;
-  constructor(private router: Router) {
-    this.order = new Order();
+    product_name;
+    size;
+    quantity;
+    customer_name;
+    customer_location;
+  public  orderService: OrderService;
+
+  constructor(private router: Router, orderService: OrderService) {
+    this.orderService = orderService;
   }
 
   ngOnInit() { }
 
   submit() {
+      console.log('HERE');
+      console.log(this.product_name);
 
-      const entityOrder = new Order();
-      entityOrder.size='1';
-      entityOrder.product_name ='test';
-
-      const response = dataStore.save(entityOrder).then(function (response) {
-          return response
-      })
-      .catch(function onError(error) {
-          return error;
-      });
-
-
-     // if(true )
-          this.alert("You have successfully save.");
-          this.clear();
-      //else
-         // this.alert("Error try again or contact administrator.");
-
-
+      this.orderService.add(this.product_name, this.size,this.quantity, this.customer_name,this.customer_location)
+          .then(() => {
+              this.clear();
+             // this.hideActivityIndicator();
+              this.alert("You have successfully save.");
+              this.clear();
+          })
+          .catch(() => {
+              this.alert("An error occurred while adding an item to your list.");
+              //this.hideActivityIndicator();
+          });
   }
 
   exit(){
@@ -51,11 +51,11 @@ export class SalesComponent implements OnInit {
   }
 
   clear(){
-      this.order.product_name='';
-      this.order.size ='';
-      this.order.quantity='';
-      this.order.customer_name='';
-      this.order.customer_location='';
+      this.product_name='';
+      this.size = 0;
+      this.quantity='';
+      this.customer_name='';
+      this.customer_location='';
   }
 
   alert(message: string) {

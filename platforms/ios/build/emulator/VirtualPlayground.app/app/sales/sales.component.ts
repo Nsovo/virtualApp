@@ -1,9 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { Order } from "../shared/order.model";
-import { Kinvey } from 'kinvey-nativescript-sdk';
 import { alert } from "tns-core-modules/ui/dialogs";
 import { Router } from "@angular/router";
-const dataStore = Kinvey.DataStore.collection('order');
+import { OrderService} from "../shared/order.service";
 
 @Component({
   moduleId: module.id,
@@ -13,33 +12,27 @@ const dataStore = Kinvey.DataStore.collection('order');
 })
 export class SalesComponent implements OnInit {
   order:Order;
-  constructor(private router: Router) {
-    this.order = new Order();
+    public  orderService: OrderService;
+
+  constructor(private router: Router, orderService: OrderService) {
+    this.orderService = orderService
   }
 
   ngOnInit() { }
 
   submit() {
-
-      const entityOrder = new Order();
-      entityOrder.size='1';
-      entityOrder.product_name ='test';
-
-      const response = dataStore.save(entityOrder).then(function (response) {
-          return response
-      })
-      .catch(function onError(error) {
-          return error;
-      });
-
-
-     // if(true )
-          this.alert("You have successfully save.");
-          this.clear();
-      //else
-         // this.alert("Error try again or contact administrator.");
-
-
+      console.log('HERE');
+      this.orderService.add(this.order.product_name, this.order.size,this.order.quantity, this.order.customer_name,this.order.customer_location)
+          .then(() => {
+              this.order = new Order('','',0,'','','',false,false);
+             // this.hideActivityIndicator();
+              this.alert("You have successfully save.");
+              this.clear();
+          })
+          .catch(() => {
+              this.alert("An error occurred while adding an item to your list.");
+              //this.hideActivityIndicator();
+          });
   }
 
   exit(){
@@ -52,7 +45,7 @@ export class SalesComponent implements OnInit {
 
   clear(){
       this.order.product_name='';
-      this.order.size ='';
+      this.order.size = 0;
       this.order.quantity='';
       this.order.customer_name='';
       this.order.customer_location='';
