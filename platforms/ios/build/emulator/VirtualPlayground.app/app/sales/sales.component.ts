@@ -8,23 +8,30 @@ import { OrderService} from "../shared/order.service";
   moduleId: module.id,
   selector: 'app-sales',
   templateUrl: './sales.component.html',
-  styleUrls: ['./sales.component.css']
+  styleUrls: ['./sales.component.css'],
+    providers: [OrderService]
 })
 export class SalesComponent implements OnInit {
-  order:Order;
-    public  orderService: OrderService;
+    product_name;
+    size;
+    quantity;
+    customer_name;
+    customer_location;
+  public  orderService: OrderService;
 
   constructor(private router: Router, orderService: OrderService) {
-    this.orderService = orderService
+    this.orderService = orderService;
   }
 
   ngOnInit() { }
 
-  submit() {
+  submit(){
       console.log('HERE');
-      this.orderService.add(this.order.product_name, this.order.size,this.order.quantity, this.order.customer_name,this.order.customer_location)
+      console.log(this.product_name);
+
+     /* this.orderService.add(this.product_name, this.size,this.quantity, this.customer_name,this.customer_location)
           .then(() => {
-              this.order = new Order('','',0,'','','',false,false);
+              this.clear();
              // this.hideActivityIndicator();
               this.alert("You have successfully save.");
               this.clear();
@@ -32,7 +39,7 @@ export class SalesComponent implements OnInit {
           .catch(() => {
               this.alert("An error occurred while adding an item to your list.");
               //this.hideActivityIndicator();
-          });
+          }); */
   }
 
   exit(){
@@ -44,11 +51,11 @@ export class SalesComponent implements OnInit {
   }
 
   clear(){
-      this.order.product_name='';
-      this.order.size = 0;
-      this.order.quantity='';
-      this.order.customer_name='';
-      this.order.customer_location='';
+      this.product_name='';
+      this.size = 0;
+      this.quantity='';
+      this.customer_name='';
+      this.customer_location='';
   }
 
   alert(message: string) {

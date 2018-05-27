@@ -4,32 +4,32 @@
            text="New Order"></Label>
 
     <StackLayout class="input-field">
-      <TextField class="input" hint="Product Name" set-focus="true"  autocorrect="true"  [(ngModel)]="product_name" ></TextField>
+      <TextField required class="input" hint="Product Name" set-focus="true"  autocorrect="true"  [(ngModel)]="product_name" #element #elementModel="ngModel"  ></TextField>
       <StackLayout class="hr-light"></StackLayout>
     </StackLayout>
 
     <StackLayout class="input-field">
-      <TextField   class="input" hint="Size"  [(ngModel)]="size" ></TextField>
+      <TextField required  class="input" hint="Size" keyboardType="number" [(ngModel)]="size" #element #elementModel="ngModel" ></TextField>
       <StackLayout class="hr-light"></StackLayout>
     </StackLayout>
 
     <StackLayout class="input-field">
-      <TextField  class="input" hint="Quantity"  [(ngModel)]="quantity" ></TextField>
+      <TextField required class="input" hint="Quantity"  [(ngModel)]="quantity" #element #elementModel="ngModel" ></TextField>
       <StackLayout class="hr-light"></StackLayout>
     </StackLayout>
 
     <StackLayout class="input-field">
-      <TextField  class="input" hint="Customer Name"  [(ngModel)]="customer_name" ></TextField>
+      <TextField required class="input" hint="Customer Name"  [(ngModel)]="customer_name" #element #elementModel="ngModel" ></TextField>
       <StackLayout class="hr-light"></StackLayout>
     </StackLayout>
 
     <StackLayout class="input-field">
-      <TextField  class="input" hint="Customer Location"  [(ngModel)]="customer_location" ></TextField>
+      <TextField required class="input" hint="Customer Location"  [(ngModel)]="customer_location"  #element #elementModel="ngModel" ></TextField>
       <StackLayout class="hr-light"></StackLayout>
     </StackLayout>
 
-    <Button [text]="'Make order'" (tap)="submit()" class="btn btn-primary m-t-20"></Button>
-    <Button [text]="'View'" (tap)="view()" class="btn btn-secondary m-t-20"></Button>
+    <Button [text]="'Make order'" (tap)="submit()" class="btn btn-primary m-t-20" [visibility]="elementModel.valid ? 'visible' : 'collapse'"></Button>
+    <!--<Button [text]="'View'" (tap)="view()" class="btn btn-secondary m-t-20"></Button>
     <!--<Button [text]="'Exit'" (tap)="exit()" class="btn btn-secondary m-t-20"></Button> -->
   </StackLayout>
 

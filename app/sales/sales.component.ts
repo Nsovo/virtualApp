@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { Order } from "../shared/order.model";
 import { alert } from "tns-core-modules/ui/dialogs";
 import { Router } from "@angular/router";
 import { OrderService} from "../shared/order.service";
@@ -25,13 +24,10 @@ export class SalesComponent implements OnInit {
 
   ngOnInit() { }
 
-  submit() {
-      console.log('HERE');
-      console.log(this.product_name);
-
-      this.orderService.add(this.product_name, this.size,this.quantity, this.customer_name,this.customer_location)
+  submit(){
+// do validation
+     this.orderService.add(this.product_name, this.size,this.quantity, this.customer_name,this.customer_location)
           .then(() => {
-              this.clear();
              // this.hideActivityIndicator();
               this.alert("You have successfully save.");
               this.clear();

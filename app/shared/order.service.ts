@@ -13,10 +13,10 @@ export class OrderService {
     constructor(private zone: NgZone) { }
 
     load() {
-        let promise = Promise.resolve();
-        return promise.then(() => {
+        return Promise.resolve().then(() => {
             let stream = this.dataStore.find();
-            return stream.toPromise();
+            console.log('service');
+            return this.allItems;
         }).then((data) => {
             this.allItems = [];
             data.forEach((order) => {
@@ -38,7 +38,7 @@ export class OrderService {
     }
 
     add(product_name: string,size: number, quantity: string, customer_name: string, customer_location: string) {
-        return this.dataStore.save({ name: name })
+        return this.dataStore.save({ product_name: product_name,size:size ,quantity:quantity, customer_name:customer_name, customer_location:customer_location})
             .then((data) => {
                 this.allItems.unshift(new Order(data._id, product_name,size,quantity,customer_name,customer_location,
                     false, false));

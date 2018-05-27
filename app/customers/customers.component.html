@@ -1,7 +1,7 @@
 <ListView
         [row]="row"
-        [class.visible]="listLoaded"
-        (itemLoading)="makeBackgroundTransparent($event)" (loaded)="load()">
+        [items]="orderService.items | async | itemStatus:showDeleted"
+        (loaded)="load()">
   <ng-template let-item="item">
     <GridLayout
             columns="*, auto"
@@ -13,11 +13,8 @@
               orientation="horizontal"
               class="tap-target"
               (tap)="toggleDone(item)">
-        <Image
-                [src]="imageSource(item)"
-                class="check-box"></Image>
         <Label
-                [text]="item.name"
+                [text]="item.product_name"
                 [class.line-through]="item.done && !item.deleted"></Label>
       </StackLayout>
       <GridLayout

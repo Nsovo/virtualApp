@@ -4,6 +4,7 @@ import { NativeScriptFormsModule } from "nativescript-angular/forms";
 
 import { CustomersRoutingModule } from "./customers-routing.module";
 import { CustomersComponent } from "./customers.component";
+import { ItemStatusPipe } from './item-status.pipe'
 
 @NgModule({
     imports: [
@@ -12,7 +13,8 @@ import { CustomersComponent } from "./customers.component";
         CustomersRoutingModule
     ],
     declarations: [
-        CustomersComponent
+        CustomersComponent,
+        ItemStatusPipe
     ],
     schemas: [
         NO_ERRORS_SCHEMA

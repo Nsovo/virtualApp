@@ -16,23 +16,21 @@ export class CustomersComponent
     implements OnInit {
     @Input() showDeleted: boolean;
     @Input() row;
-    @Output() loading = new EventEmitter();
-    @Output() loaded = new EventEmitter();
-    listLoaded = false;
-    public  orders: OrderService;
+    public  orderService: OrderService;
 
-  constructor(orders: OrderService) {
-     this.orders = orders;
+  constructor(orderService: OrderService) {
+      this.orderService = orderService;
   }
     load() {
-        this.loading.next("");
-        this.orders.load()
-            .then(() => {
-                this.loaded.next("");
-                this.listLoaded = true;
+
+        this.orderService.load()
+            .then((value) => {
+                console.log('what exactly are we loading');
+                console.log(value);
             }).catch(() => {
             alert("An error occurred loading your grocery list.");
         });
+
     }
 
     // The following trick makes the background color of each cell
